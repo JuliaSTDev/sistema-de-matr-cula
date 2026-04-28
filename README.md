@@ -52,4 +52,4 @@ Utilização de prompts estruturados para impedir a progressão no funil sem os 
 ---
 
 ### 👩‍💻 Desenvolvedora
-**Julia** *Desenvolvedora ADS | Especialista em Arquitetura de Receita e Automação de IA*
+**Julia** *Desenvolvedora ADS*
